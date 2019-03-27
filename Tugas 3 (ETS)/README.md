@@ -19,11 +19,18 @@ Dalam screenshot ini, adalah pengetesan jika semisal client mencoba koneksi deng
 Untuk percobaan, saya memasukkan beberapa file yang tersedia (Dalam kasus ini, saya memasukkan file berformat .jpg .mp4 .mp3 .txt)
 
 Terdapat beberapa sintaks pada program:
+<br>
+<br>
 ls: Untuk list semua file yang ada di server
+<br>
 get: Untuk mendownload file dari server ke client
+<br>
 put: Untuk mengupload file dari client ke server
+<br>
 rm: Untuk delete file
+<br>
 quit: Untuk keluar dari program (dua-duanya) dan memutuskan koneksi client dan server
+<br>
 help: Untuk bantuan dan memunculkan command yang tersedia
 
 ## Pengetesan:
