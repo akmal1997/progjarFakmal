@@ -33,6 +33,11 @@ quit: Untuk keluar dari program (dua-duanya) dan memutuskan koneksi client dan s
 <br>
 help: Untuk bantuan dan memunculkan command yang tersedia
 
+## Cara Menjalankan:
+
+Untuk user Ubuntu atau Linux Debian based, cukup mengetik "python client.py" (untuk client, terdapat didalam folder client) dan "python server.py" (untuk server) di Terminal
+
+
 ## Pengetesan:
 
 Saya mencoba mendownload file stainless.jpg, edsheeranperfect.MP4, bleedinglove.txt, dan pasrah.mp3
